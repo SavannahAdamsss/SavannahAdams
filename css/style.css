@@ -57,13 +57,13 @@
  }
  
  @media only screen and (max-width: 590px) {
-   .atlas {
+   .me {
      width: 100%;
    }
-   .snow {
+   .bales {
      width: 100%;
    }
-   .bike {
+   .truck {
      width: 100%;
    }
    h4 {
